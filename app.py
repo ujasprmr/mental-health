@@ -47,4 +47,3 @@ Now, the user says: \"{{USER_INPUT}}\"
 
 if __name__ == "__main__":
     generate()
-added app.py file
